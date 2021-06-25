@@ -1,0 +1,3 @@
+Box params(length, width, height) - (85, 35, 20) with 59500 cub.cm volume.
+Total - 5 items to pack.
+Total products volume - 35125 cub.cm.
