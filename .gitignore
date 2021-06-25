@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 **.db
 
-.csv
+*.csv
+volume.txt
